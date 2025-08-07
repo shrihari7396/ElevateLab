@@ -5,7 +5,6 @@ public class Library {
     private String libraryName;
     private List<Book> books;
     private List<User> users;
-    private Scanner scanner;
     
     public Library(String libraryName) {
         this.libraryName = libraryName;
